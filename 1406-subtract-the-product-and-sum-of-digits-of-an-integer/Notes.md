@@ -1,0 +1,1 @@
+<h2>subtract-the-product-and-sum-of-digits-of-an-integer Notes</h2><hr>[ Time taken: 6d 20hrs 42m 25s ]
